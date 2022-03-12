@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pku食堂</string>
+    <string name="title_activity_main">pku食堂</string>
+    <string name="package_name">io.ionic.pkucanteen</string>
+    <string name="custom_url_scheme">io.ionic.pkucanteen</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.pkucanteen",
+	"appName": "pkucanteen",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
